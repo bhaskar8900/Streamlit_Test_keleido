@@ -1,7 +1,7 @@
 pandas
 streamlit
 Pillow
-plotly
+plotly>5
 openpyxl
-kaleido
-plotly_get_chrome
+kaleido>=1.0.0
+chrome
