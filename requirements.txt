@@ -4,4 +4,4 @@ Pillow
 plotly>5
 openpyxl
 kaleido>=1.0.0
-chrome
+--upgrade pip
