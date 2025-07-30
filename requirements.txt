@@ -4,3 +4,4 @@ Pillow
 plotly
 openpyxl
 kaleido
+plotly_get_chrome
